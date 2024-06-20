@@ -1,0 +1,80 @@
+[
+  {
+    "type": "Sudden Emotions",
+    "exp_text": "I love you.",
+    "start_timestamp": 5.78000020980835,
+    "end_timestamp": 9.0600004196167
+  },
+  {
+    "type": "Greetings and Farewells",
+    "exp_text": "Grand Rising.",
+    "start_timestamp": 11.899999618530273,
+    "end_timestamp": 13.319999694824219
+  },
+  {
+    "type": "Celebrations and Wishes",
+    "exp_text": "Good vibes to all.",
+    "start_timestamp": 15.779999732971191,
+    "end_timestamp": 16.8799991607666
+  },
+  {
+    "type": "Celebrations and Wishes",
+    "exp_text": "Stay based.",
+    "start_timestamp": 18.959999084472656,
+    "end_timestamp": 19.68000030517578
+  },
+  {
+    "type": "Simple Gestures",
+    "exp_text": "Thumbs up.",
+    "start_timestamp": 22.360000610351562,
+    "end_timestamp": 23.020000457763672
+  },
+  {
+    "type": "Simple Gestures",
+    "exp_text": "Thumbs down.",
+    "start_timestamp": 24.719999313354492,
+    "end_timestamp": 25.18000030517578
+  },
+  {
+    "type": "Emotional Statements",
+    "exp_text": "I'm okay.",
+    "start_timestamp": 27.399999618530273,
+    "end_timestamp": 29.34000015258789
+  },
+  {
+    "type": "Greetings and Farewells",
+    "exp_text": "Happy Monday.",
+    "start_timestamp": 34.959999084472656,
+    "end_timestamp": 36.65999984741211
+  },
+  {
+    "type": "Greetings and Farewells",
+    "exp_text": "Happy Tuesday.",
+    "start_timestamp": 38.34000015258789,
+    "end_timestamp": 39.099998474121094
+  },
+  {
+    "type": "Greetings and Farewells",
+    "exp_text": "Happy Wednesday.",
+    "start_timestamp": 40.380001068115234,
+    "end_timestamp": 41.0
+  },
+  {
+    "type": "Greetings and Farewells",
+    "exp_text": "Happy Thursday.",
+    "start_timestamp": 42.279998779296875,
+    "end_timestamp": 43.099998474121094
+  },
+  {
+    "type": "Greetings and Farewells",
+    "exp_text": "Happy Friday.",
+    "start_timestamp": 44.400001525878906,
+    "end_timestamp": 44.97999954223633
+  },
+  {
+    "type": "Celebrations and Wishes",
+    "exp_text": "And a good New Year's Eve to everyone.",
+    "start_timestamp": 45.79999923706055,
+    "end_timestamp": 49.29999923706055
+  }
+]
